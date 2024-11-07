@@ -13,5 +13,7 @@ color:  rgb(127, 255, 212);
 
 section {
     background: rgb(36, 121, 218);
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
 
