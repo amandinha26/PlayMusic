@@ -2,3 +2,7 @@ body {
 color: Turquoise;
 background:  rgb(9, 56, 65);
 }
+
+header {
+ border: solid 5px   lightsteelblue; 
+}
