@@ -1,9 +1,10 @@
 body{
     color: lawngreen; 
     background: royalblue;
-    margin:0px
+    margin:0px;
 }
 
 header {
     border-bottom: solid 1px lawngreen;
+    margin: 20px;
 }
