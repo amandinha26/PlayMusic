@@ -1,25 +1,25 @@
 body {
-color: Turquoise;
-background:  rgb(9, 56, 65);
-margin:0px;
-}
-
-header {
- border-bottom: solid 5px  rgb(127, 255, 212); 
-padding: 20px;
-font-size: 33px;
-color:  rgba(125, 252, 210, 0.904); 
-}
-
-section {
-    background: rgb(36, 121, 218);
-    padding-bottom: 80px;
-    padding-top: 80px;
-    display: flex;
-justify-content: center;
-}
-
-.chamada-texto {
- margin-right: 5%;
-}
-
+    color: Turquoise;
+    background:  rgb(9, 56, 65);
+    margin:0px;
+    }
+    
+    header {
+     border-bottom: solid 5px  rgb(127, 255, 212); 
+    padding: 20px;
+    font-size: 33px;
+    color:  rgba(125, 252, 210, 0.904); 
+    }
+    
+    section {
+        background: rgb(36, 121, 218);
+        padding-bottom: 80px;
+        padding-top: 80px;
+        display: flex;
+    justify-content: center;
+    }
+    
+    .chamada-texto {
+     margin-right: 5%;
+    }
+    
