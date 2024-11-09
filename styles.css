@@ -1,13 +1,16 @@
 body{
-    color: lawngreen; 
-    background: royalblue;
+    color: rgb(154, 70, 243); 
+    background: black;
     margin:0px;
 }
 
 header {
-    border-bottom: solid 1px lawngreen;
+    border-bottom: solid 1px rgb(255 113 179);
     padding: 20px;
     font-size: 32px;
 }
 
-parei no 1:33 aula 04
+
+section{
+    background: rgb(242 155 247);
+}
