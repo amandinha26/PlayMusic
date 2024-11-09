@@ -5,7 +5,7 @@ body{
 }
 
 header {
-    border-bottom: solid 1px rgb(255 113 179);
+    border-bottom: solid 2px rgb(255 113 179);
     padding: 20px;
     font-size: 32px;
 }
