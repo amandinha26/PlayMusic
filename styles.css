@@ -1,8 +1,8 @@
 body{
     color: rgb(154, 70, 243); 
-    background: black;
+    background: rgb(158, 92, 159);
     margin:0px;
-    font-family: "Chakra Petch", sans-serif;
+    font-family: "Embed code", sans-serif;
     margin-bottom: 100px;
 }
 
@@ -56,7 +56,7 @@ height: 200px;
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 1px solid green
+    border: 1px solid rgb(10, 239, 255)
 }
 
 .categoria h2 {
